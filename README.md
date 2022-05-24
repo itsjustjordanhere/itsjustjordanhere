@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi There, I'm Jordan! 👋
 
-<!--
-**itsjustjordanhere/itsjustjordanhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some person projects
+- 🌱 I’m currently learning JavaScript & Bootstrap 5
+- 📫 How to reach me: I will setup a contact form using Formspree API
+- ⚡ Fun fact: My favourite genre of music is Drum and Bass.
 
-Here are some ideas to get you started:
+## My knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS, and JavaScript
+- Git & GitHub
+- Command Line Interface
+- Front-end Framework (Bootstrap)
