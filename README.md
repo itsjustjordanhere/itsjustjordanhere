@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some person projects
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me: [Contact Me](https://itsjustjordanhere.github.io/contactMe/)
-- ⚡ Fun fact: My favourite genre of music is Drum and Bass.
+- ⚡ Fun fact: My favourite genre of music is Drum and Bass aswell Trance Music 
 
 ## My knowledge
 
