@@ -8,4 +8,4 @@
 - CSS
 - JavaScript
 - Git & GitHub
-- Front-end Framework (Bootstrap)
+- Frameworks: Bootstrap, Semantic UI
