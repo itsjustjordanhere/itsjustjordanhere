@@ -6,6 +6,16 @@
 
 - HTML5
 - CSS
-- JavaScript
-- Git & GitHub
-- Frameworks: Bootstrap, Semantic UI
+- JavaScript ES6
+- Git Command Line
+- GitHub
+- Bootstrap 5
+
+## Currently Learning
+- Cloudfare
+- Semantic UI
+- UI/UX Design
+
+## Future Visions
+
+Learn how to build websites professionally so I can offer my services to others that need them.
