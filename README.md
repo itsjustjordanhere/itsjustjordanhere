@@ -15,7 +15,8 @@
 - Cloudfare
 - Semantic UI
 - UI/UX Design
+- 
 
 ## Future Visions
 
-Learn how to build websites professionally so I can offer my services to others that need them.
+Become a leading website builder so I may offer my skills to those who require them and continue to learn and improve for years to come.
