@@ -15,7 +15,7 @@
 - Cloudfare
 - Semantic UI
 - UI/UX Design
-- 
+- JQUERY
 
 ## Future Visions
 
