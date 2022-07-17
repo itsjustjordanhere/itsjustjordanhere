@@ -1,7 +1,7 @@
 ### Hi There, I'm Jordan! 👋
 
 - 📫 How to reach me: [Contact Me](https://itsjustjordanhere.github.io/contactMe/)
-
+- 🗂 Upcoming Portfolio Website: [Visit Portfolio](https://justjordan.pages.dev/)
 ## My knowledge
 
 - HTML5
